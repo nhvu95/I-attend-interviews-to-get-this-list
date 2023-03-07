@@ -1,4 +1,4 @@
-# js-for-fools
+# I attend interviews to get this list
 
 This is the list of questions I got in the interview. Don't ask me the answer because I fail a lot :cry:. Ask GPT yourself
 
