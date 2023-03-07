@@ -18,4 +18,4 @@ This is the list of questions I got in the interview. Don't ask me the answer be
 
 7. Explain the different between localStorage, sessionStorage, Cookie?
 8. Do you know PWA?
-8
+9.
