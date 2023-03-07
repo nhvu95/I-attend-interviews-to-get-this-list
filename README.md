@@ -10,14 +10,14 @@ This is the list of questions I got in the interview. Don't ask me the answer be
 4. How to make a private property in js?
 5. What is prototype? Different betweeen prototype and __proto__
 6. Given a script. Give me the output order.
-
+```javascript
   setTimeout(() => {
     console.log("b");
   });
   const promise = new Promise((resolve) => resolve("c"));
   promise.then(res => console.log(res));
   console.log("a");
-
+```
 7. Explain the different between localStorage, sessionStorage, Cookie?
 8. Do you know PWA?
 9. Do you know why JS is single thread?
