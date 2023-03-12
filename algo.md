@@ -15,7 +15,7 @@ export default function checkChangeTeam(player: number, goals: number[]): "Yes" 
 * Khi một cầu thủ `Team A` đổi chỗ cho 1 cầu thủ `Team B` thì họ sẽ đổi `A` <=> `B`, `B` <=> `A`
 * Khi 2 cầu thủ `Team B` đổi chỗ cho nhau thì họ sẽ chuyển sang `Team A`
 
-Nhiệm vụ của bạn là kiểm tra xem có thể sắp xếp các cầu thủ theo thứ tự giảm dần và tất cả thuộc team B không.
+Nhiệm vụ của bạn là kiểm tra xem có thể sắp xếp các cầu thủ theo thứ tự giảm dần bằng cách hoán vị và sau đó tất cả các cầu thủ đều thuộc team B không.
 
 Ví dụ:
 
